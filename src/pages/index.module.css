@@ -1,23 +1,27 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-}
-
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
-.buttons {
+.heroContainer {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
   display: flex;
-  align-items: center;
+  background-image: url("https://cdn.jsdelivr.net/gh/htwm623/htwm-open-sesame/static/image/blog-bg/bg6.jpg");
+  background-repeat: no-repeat;
+  background-color: #222;
+  background-size: cover;
   justify-content: center;
+  align-items: center;
+  color: #000;
+}
+
+.heroContainer .centerCard {
+  width: 600px;
+  height: 400px;
+  font-size: 72px;
+  letter-spacing: 20px;
+  display: flex;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
 }
