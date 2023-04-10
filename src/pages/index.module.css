@@ -6,7 +6,7 @@
   left: 0;
   z-index: -1;
   display: flex;
-  background-image: url("https://cdn.jsdelivr.net/gh/htwm623/htwm-open-sesame/static/image/blog-bg/bg6.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/htwm623/static/media/images/bg3.jpg");
   background-repeat: no-repeat;
   background-color: #222;
   background-size: cover;
@@ -18,7 +18,7 @@
 .heroContainer .centerCard {
   width: 600px;
   height: 400px;
-  font-size: 72px;
+  font-size: 48px;
   letter-spacing: 20px;
   display: flex;
   color: #fff;

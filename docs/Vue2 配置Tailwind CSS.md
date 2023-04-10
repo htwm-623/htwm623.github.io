@@ -54,3 +54,4 @@ import "tailwindcss/tailwind.css";
 ```
 
 至此为 vue2 引入 tailwind 全流程
+
