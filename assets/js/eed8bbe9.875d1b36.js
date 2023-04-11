@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhtwm_623_website=self.webpackChunkhtwm_623_website||[]).push([[4706],{8843:t=>{t.exports=JSON.parse('{"label":"http","permalink":"/docs/tags/http","allTagsPath":"/docs/tags","count":1,"items":[{"id":"HTTP2.0","title":"HTTP2.0","description":"HTTP1.1 \u7684\u6027\u80fd\u74f6\u9888","permalink":"/docs/HTTP2.0"}]}')}}]);
